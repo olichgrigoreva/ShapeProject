@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeProject", "ShapeProject\ShapeProject.csproj", "{4BBB9F5E-9C0D-4E99-860B-C99CC99F7A6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestShapeProject", "TestShapeProject\TestShapeProject.csproj", "{404853FD-8F0E-4C16-8827-0E31D25F5375}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{4BBB9F5E-9C0D-4E99-860B-C99CC99F7A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BBB9F5E-9C0D-4E99-860B-C99CC99F7A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BBB9F5E-9C0D-4E99-860B-C99CC99F7A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404853FD-8F0E-4C16-8827-0E31D25F5375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404853FD-8F0E-4C16-8827-0E31D25F5375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404853FD-8F0E-4C16-8827-0E31D25F5375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404853FD-8F0E-4C16-8827-0E31D25F5375}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
