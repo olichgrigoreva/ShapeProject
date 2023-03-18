@@ -7,6 +7,7 @@ public class Square : IShape
     public Square(double length)
     {
         _length = length;
+        _length = length;
     }
 
     public double CalculateArea()
